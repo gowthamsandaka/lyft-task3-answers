@@ -1,2 +1,1 @@
-# lyft-task3-answers
- 
+# Task 3 model answer
